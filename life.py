@@ -1,12 +1,6 @@
 """
 CISC 352: Assignment 3
 April 2, 2018
-Matthew Rodgers		    10192731
-Mitchell Skarupa 	    10197030
-Bo Chen          	    10190141
-Martin Woo       	    10191152
-Taylor Simpson	            10197558
-Sean Remedios               10190433
 
 Conway's Game of Life algorithm is determined by its initial sate, requiring no further input.
 It is represented on a grid of cells that are alive (coloured), or dead(white). Every cell interacts
